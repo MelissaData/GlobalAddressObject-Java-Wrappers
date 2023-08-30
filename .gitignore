@@ -1,0 +1,12 @@
+[Mm]elissa[Uu]pdater/
+
+mdGlobalAddr.dll
+libmdGlobalAddr.so
+
+*.class
+*.h
+*.lib
+*.obj
+*.hash
+*.jar
+*.zip
