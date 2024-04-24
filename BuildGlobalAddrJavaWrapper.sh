@@ -53,9 +53,9 @@ Config_Type4="INTERFACE"
 Com_FileName="mdGlobalAddr_JavaCode.zip"
 Com_ReleaseVersion=$RELEASE_VERSION
 Com_OS="ANY"
-Com_Compiler="ANY"
+Com_Compiler="JAVA"
 Com_Architecture="ANY"
-Com_Type="DATA"
+Com_Type="INTERFACE"
 
 ######################### Functions #########################
 DownloadFiles() 

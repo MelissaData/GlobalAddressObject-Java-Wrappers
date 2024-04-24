@@ -65,9 +65,9 @@ $Files = @(
     FileName       = "mdGlobalAddr_JavaCode.zip";
     ReleaseVersion = $RELEASE_VERSION;
     OS             = "ANY";
-    Compiler       = "ANY";
+    Compiler       = "JAVA";
     Architecture   = "ANY";
-    Type           = "DATA";
+    Type           = "INTERFACE";
   }
 )
 
