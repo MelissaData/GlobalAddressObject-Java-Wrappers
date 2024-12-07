@@ -13,7 +13,7 @@ For further details, please visit: https://wiki.melissadata.com/index.php?title=
 ## Tested Environments
 - Windows 10 64-bit Java 19, Microsoft Visual C++ 19.34, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit Java 20, gcc 9.4.0 
-- Melissa Global Address Object for 2024-Q3
+- Melissa Global Address Object for 2024-Q4
 - Wrapper file(s) have not changed since 2024-Q1
 
 ## Getting Started
@@ -21,8 +21,8 @@ These instructions will get you a copy of the wrappers needed to run the Java Gl
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/GlobalAddressObject-Java-Wrappers
-$ cd GlobalAddressObject-Java-Wrappers
+git clone https://github.com/MelissaData/GlobalAddressObject-Java-Wrappers
+cd GlobalAddressObject-Java-Wrappers
 ```
 
 ### Copy wrappers to your project folder
@@ -80,8 +80,8 @@ Parameter(s)
 - -license (optional): a license string to run the powershell script
 
 ```
-$ .\BuildGlobalAddrJavaWrapper.ps1
-$ .\BuildGlobalAddrJavaWrapper.ps1 -license "<your_license_string>"
+.\BuildGlobalAddrJavaWrapper.ps1
+.\BuildGlobalAddrJavaWrapper.ps1 -license "<your_license_string>"
 ```
 
 ## Linux
@@ -149,8 +149,8 @@ Parameter(s)
 - --license (optional): a license string to run the bash script
 
 ```
-$ ./BuildGlobalAddrJavaWrapper.sh
-$ ./BuildGlobalAddrJavaWrapper.sh --license "<your_license_string>"
+./BuildGlobalAddrJavaWrapper.sh
+./BuildGlobalAddrJavaWrapper.sh --license "<your_license_string>"
 ```
 
 ----------------------------------------
